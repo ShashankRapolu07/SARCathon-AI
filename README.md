@@ -63,6 +63,7 @@ Follow [this link](https://www.youtube.com/watch?v=EhxPBMQFCaI&feature=youtu.be)
 - Start the FastAPI server using uvicorn: `python -m uvicorn main:app --reload`
 
 > **NOTE:** Until the hackathon deadline, we are giving you the APIs for quicker setup and ease of access. These are temporary and will be removed post-hoc.
+> **NOTE:** We have a multi-lingual support version of this application also. See [our another GitHub repository](https://github.com/ShashankRapolu07/SARCathon-AI-With-Translation-.git) for the details. (You are required to generate your own Google Cloud Translation API for this.)
 
 ## FAQ Matching Process (Step-by-Step)
 The FAQ matching process ensures users receive relevant answers quickly. Here's how it works, step-by-step:
