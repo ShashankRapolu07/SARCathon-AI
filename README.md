@@ -14,7 +14,7 @@ The Smart FAQ Module is a FAQ-retrieval system designed to improve the user expe
 
 4. **Scalability:**
    - Code is organized in a way that makes it easy to add new features and functionality.
-   - Leverages cloud services like Pinecone (vector database) and Google Cloud (translation API), making it robust to scaling as needed.
+   - Leverages cloud services like Pinecone (vector database), making it robust to scaling as needed.
 
 5. **Responsive User-Interface:**
    - UI is designed in such a way to make it compatible with different screen sizes (laptops/tables/mobiles, etc.).
