@@ -113,7 +113,7 @@ Instead of performing a similarity search with respect to all the FAQs in the da
 
 > **NOTE:** As the FAQ dataset (`faqs.json`) is small in our case, we compared the user query with all the FAQ embeddings to not compromise on retrieval accuracy.
 
-## Snaps of our Application
+## Our Application Snapshots
 
 #### UI Design:
 
