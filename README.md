@@ -76,7 +76,7 @@ The FAQ matching process ensures users receive relevant answers quickly. Here's 
    - **Front-End Handling:** The React.js front-end captures the user query and, using a debounce function, waits briefly before sending the query to the back-end, to prevent unnecessary requests.
 
 2. **Generating Embeddings with SentenceTransformer**
-   - **Sentence Embedding Generation:** The back-end uses the `SentenceTransformer` model (`all-MiniLM-L6-cos-v1`) to convert the (possibly translated) query into a numerical vector (embedding).
+   - **Sentence Embedding Generation:** The back-end uses the `SentenceTransformer` model (`all-MiniLM-L6-cos-v1`) to convert the user query into a numerical vector (embedding).
    - **Semantic Representation:** The embedding captures the meaning of the query in a form that can be compared with stored FAQs.
 
 3. **Searching the Pinecone Vector Database**
