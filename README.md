@@ -115,12 +115,14 @@ Instead of performing a similarity search with respect to all the FAQs in the da
 
 ## Snaps of our Application
 
-<figure>
-   <figcaption><strong>UI Design at 0 Scroll Position</strong></figcaption>
-   <img src="1-UI Design 1.png" width=500>
-</figure>
+<div style="display: flex; gap: 10px">
+   <figure style="text-align: center">
+      <figcaption><strong>UI Design at 0 Scroll Position</strong></figcaption>
+      <img src="1-UI Design 1.png" width=500>
+   </figure>
 
-<figure>
-   <figcaption><strong>UI Design at X Scroll Position</strong></figcaption>
-   <img src="1-UI Design 2.png" width=500>
-</figure>
+   <figure style="text-align: center">
+      <figcaption><strong>UI Design at X Scroll Position</strong></figcaption>
+      <img src="1-UI Design 2.png" width=500>
+   </figure>
+</div>
