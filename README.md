@@ -125,7 +125,7 @@ Instead of performing a similarity search with respect to all the FAQs in the da
 
 | User Query 1 | User Query 2 |
 |---------------------------------|---------------------------------|
-| ![UI Design at 0 Scroll Position](2-FAQ%20Retrieval%20Testing%201.png) | ![UI Design at X Scroll Position](2-FAQ%20Retrieval%20Testing%202.png) |
+| ![UI Design at X Scroll Position](2-FAQ%20Retrieval%20Testing%202.png) | ![UI Design at 0 Scroll Position](2-FAQ%20Retrieval%20Testing%201.png) |
 
 #### Responsive Design:
 
