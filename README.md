@@ -115,19 +115,19 @@ Instead of performing a similarity search with respect to all the FAQs in the da
 
 ## Snaps of our Application
 
-### UI Design
+#### UI Design:
 
 | At 0 Scroll Position | At X Scroll Position |
 |---------------------------------|---------------------------------|
 | ![UI Design at 0 Scroll Position](1-UI%20Design%201.png) | ![UI Design at X Scroll Position](1-UI%20Design%202.png) |
 
-### Intelligent FAQ Retrieval
+#### Intelligent FAQ Retrieval:
 
 | User Query 1 | User Query 2 |
 |---------------------------------|---------------------------------|
 | ![UI Design at 0 Scroll Position](2-FAQ%20Retrieval%20Testing%201.png) | ![UI Design at X Scroll Position](2-FAQ%20Retrieval%20Testing%202.png) |
 
-### Responsive Design
+#### Responsive Design:
 
 | At 0 Scroll Position | At X Scroll Position |
 |---------------------------------|---------------------------------|
