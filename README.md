@@ -117,7 +117,7 @@ Instead of performing a similarity search with respect to all the FAQs in the da
 
 #### UI Design:
 
-| At 0 Scroll Position | At X Scroll Position |
+| At Scroll Position 0 | At Scroll Position X|
 |---------------------------------|---------------------------------|
 | ![UI Design at 0 Scroll Position](1-UI%20Design%201.png) | ![UI Design at X Scroll Position](1-UI%20Design%202.png) |
 
@@ -129,6 +129,6 @@ Instead of performing a similarity search with respect to all the FAQs in the da
 
 #### Responsive Design:
 
-| At 0 Scroll Position | At X Scroll Position |
+| At Scroll Position 0 | At Scroll Position X |
 |---------------------------------|---------------------------------|
 | ![UI Design at 0 Scroll Position](3-Responsive%20Design%201.png) | ![UI Design at X Scroll Position](3-Responsive%20Design%202.png) |
