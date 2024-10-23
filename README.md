@@ -1,5 +1,7 @@
 # AI-Enabled Smart FAQ Module
 
+> For our same application with the **AutoTranslate** feature $\rightarrow$ visit [this GitHub repository](https://github.com/ShashankRapolu07/SARCathon-AI-With-AutoTranslate.git). If you are planning to run this application, make sure you generate your own **Pinecone API** (for FAQ retrieval) and **Google Cloud Translate API** (for **AutoTranslate**) keys.
+
 ## Overview
 The Smart FAQ Module is a FAQ-retrieval system designed to improve the user experience on the SARAS AI Institute website. It helps users find the answers they need by intelligently understanding their questions and showing the most relevant FAQs by leveraging AI capabilities.
 
