@@ -64,7 +64,7 @@ Follow [this link](https://www.youtube.com/watch?v=EhxPBMQFCaI&feature=youtu.be)
 ### Step 6:
 - Start the FastAPI server using uvicorn: `python -m uvicorn main:app --reload`
 
-> **NOTE:** Until the hackathon deadline, we are giving you the APIs for quicker setup and ease of access. These are temporary and will be removed post-hoc.
+> **NOTE:** Until the hackathon deadline, we are giving you the APIs for quicker setup and ease of access. These are temporary and will be removed post-hoc. UPDATE: API key removed.
 
 > **NOTE:** We also have another version of this application with **AutoTranslate** feature. We made a separate application for this feature because it requires you to generate your own **Google Cloud Translation API** key. See [our another GitHub repository](https://github.com/ShashankRapolu07/SARCathon-AI-With-Translation-.git) for the details.
 
